@@ -1,5 +1,3 @@
-// lib/screens/editor_screen.dart
-
 import 'package:barcode_label_app/provider/design_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
