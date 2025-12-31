@@ -14,13 +14,13 @@ A simple Flutter application for designing barcode labels with drag-and-drop fun
 ## 📸 Screenshots
 
 ### Main Editor Screen
-![Editor Screen](assets/screenshots/editor_screen.png)
-
-### JSON Viewer
-![JSON Viewer](assets/screenshots/json_viewer.png)
+<img src="assets/screenshots/editor_screen.png" alt="Editor Screen" width="800">
 
 ### Drag & Drop
 ![Drag Drop Demo](assets/screenshots/drag_drop.png)
+
+### JSON Viewer
+![JSON Viewer](assets/screenshots/json_viewer.png)
 
 
 ## 🎮 How to Use
