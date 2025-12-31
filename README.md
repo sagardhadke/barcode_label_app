@@ -1,6 +1,6 @@
 # 🏷️ Barcode Label Designer
 
-A simple Flutter application for designing barcode labels with drag-and-drop functionality. Create custom labels with text and barcodes, and export designs as JSON.
+A simple Flutter desktop application for designing barcode labels with drag-and-drop functionality. Create custom labels with text and barcodes, and export designs as JSON.
 
 ## ✨ Features
 
@@ -11,17 +11,23 @@ A simple Flutter application for designing barcode labels with drag-and-drop fun
 - 📋 **JSON Export** - View and copy your design as JSON
 - 🎨 **Visual Canvas** - Real-time preview of your label design
 
+## 🖥️ Platform Support
+
+This is a **Flutter Desktop Application** built for:
+- ✅ Windows
+- ✅ macOS
+- ✅ Linux (untested)
+
 ## 📸 Screenshots
 
 ### Main Editor Screen
-<img src="assets/screenshots/editor_screen.png" alt="Editor Screen" width="800">
+<img src="assets/screenshots/editor_screen.png" alt="Editor Screen" width="800" style="border: 1px solid #ddd;">
 
 ### Drag & Drop
-![Drag Drop Demo](assets/screenshots/drag_drop.png)
+<img src="assets/screenshots/drag_drop.png" alt="Drag Drop Demo" width="800" style="border: 1px solid #ddd;">
 
 ### JSON Viewer
-![JSON Viewer](assets/screenshots/json_viewer.png)
-
+<img src="assets/screenshots/json_viewer.png" alt="JSON Viewer" width="800" style="border: 1px solid #ddd;">
 
 ## 🎮 How to Use
 
@@ -34,7 +40,7 @@ A simple Flutter application for designing barcode labels with drag-and-drop fun
 
 ## 🛠️ Built With
 
-- **Flutter** - UI Framework
+- **Flutter** - Cross-platform UI Framework
 - **Provider** - State Management
 - **barcode_widget** - Barcode Generation
 - **uuid** - Unique ID Generation
