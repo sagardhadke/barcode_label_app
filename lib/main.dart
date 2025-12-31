@@ -1,5 +1,5 @@
 import 'package:barcode_label_app/provider/design_provider.dart';
-import 'package:barcode_label_app/screens/home_page.dart';
+import 'package:barcode_label_app/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
